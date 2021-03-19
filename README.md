@@ -2,7 +2,7 @@
 
 ## **MVC - Model View Controller**
 ***
-![mvc1](mvc.png)
+![mvc1](mvc1.png)
 
 - Over last 2 decades, Websites have changed from simple pages to little CSS to JavaScript to become much more complex & powerful application day by day
 

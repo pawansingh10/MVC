@@ -19,6 +19,7 @@
 - **Architecture == Blue Print for a System**
 
 ### **MVC - Model View Controller**
+***
 - Most Popular Software Architecture
 - It is divided into 3 parts:-
   - **1. Model**
